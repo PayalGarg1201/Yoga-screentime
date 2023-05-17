@@ -1,6 +1,7 @@
 Yoga-Screentime
 How can incorporating yoga into your daily routine impact screen time?
 
+![image](https://github.com/PayalGarg1201/Yoga-screentime/assets/133757186/454c5c24-e833-4797-8562-ed21ab02a96e)
 
 
  About the dataset 
