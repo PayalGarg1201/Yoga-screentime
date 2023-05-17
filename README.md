@@ -40,10 +40,12 @@ Tools: As this is a smaller dataset, I will use Microsoft Excel to clean and ana
 -	‘Index’ = Number
 -	‘Weekday’ = Text
 -	Categories = Number to 1.d.p.
+-	
 ![Picture1](https://github.com/PayalGarg1201/Yoga-screentime/assets/133757186/d460b177-1fb3-4609-9675-7e8bcf521f3f)
 
 
 This screenshot shows that when I try to convert the dates to Number Format, not all of them convert to date serial numbers
+
 
 ![Picture2](https://github.com/PayalGarg1201/Yoga-screentime/assets/133757186/d41a5656-d7c1-41a5-a292-cc50b11a8ad7)
 
@@ -65,6 +67,8 @@ After using the 'text to columns' tab, I was able to define to format of the dat
 1.	Firstly, I confirmed the duration of 28 days for data by using the COUNT function. As the data has been transformed into a table, it makes it easier to carry out statistical calculations, such as COUNT, AVG, MAX AND MIN using filters at the end of columns.
 
 2.	I created a pivot table and focused on average screen time and the day of the week to see what day screen time was the highest and the lowest.
+
+
 ![Picture3](https://github.com/PayalGarg1201/Yoga-screentime/assets/133757186/ff1d5d42-44c2-4179-94e5-6f8abc310085)
 
 
@@ -72,11 +76,15 @@ After using the 'text to columns' tab, I was able to define to format of the dat
 I organised the data to show screen time from highest to lowest. We can see that Wednesday is the day where screen time is the highest at an average of 142.75 minutes and Sunday as the lowest at average 81.5 minutes over the 28 days.
 
 3.	The most screen time is spent using social media at an average of 60 minutes a day over the week as compared to other categories.
+
+
 ![Picture4](https://github.com/PayalGarg1201/Yoga-screentime/assets/133757186/4af29e07-28fe-48c7-beac-101535d56e1a)
 
 
 
 4.	Comparing the months of April and May, it shows that screen time is reduced by 16.4 minutes of average in the month of May where yoga was incorporated daily. On the other hand, we can see that social networking didn’t change significantly between the two months, in fact, it increased slightly in May where yoga was incorporated into the daily routine.
+
+
 ![Picture5](https://github.com/PayalGarg1201/Yoga-screentime/assets/133757186/ac4d3ad9-91cb-4667-acbd-c2c019512581)
 
 
@@ -87,6 +95,8 @@ I organised the data to show screen time from highest to lowest. We can see that
 ![Picture6](https://github.com/PayalGarg1201/Yoga-screentime/assets/133757186/00b33c14-f778-4dbf-bca2-7e876e1d94f5)
 
 6.	I will compare week by week for each month and see if there is anything I can pick up from comparisons. I will do this by each day of the week for 4 weeks.
+
+
 
 ![Picture7](https://github.com/PayalGarg1201/Yoga-screentime/assets/133757186/9a9ca3e5-78b8-463e-afd1-535d20a2eddd)
 ![Picture8](https://github.com/PayalGarg1201/Yoga-screentime/assets/133757186/efd33051-85e9-47f5-9f88-80803a48dce0)
